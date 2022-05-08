@@ -1,0 +1,1 @@
+se observa que la carpeta anterior no esta permitido ni pull ni push
